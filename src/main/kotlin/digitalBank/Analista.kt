@@ -1,5 +1,4 @@
 package digitalBank
-
 class Analista(
     name : String,
     cpf : String,

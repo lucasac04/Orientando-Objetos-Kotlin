@@ -1,7 +1,5 @@
 package digitalBank.test
-import digitalBank.test.relatorioFuncionario
 import digitalBank.Analista
-import digitalBank.Pessoa
 
 fun main() {
 

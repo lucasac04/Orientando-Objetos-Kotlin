@@ -1,5 +1,4 @@
 package digitalBank.test
-
 import digitalBank.Funcionario
 
 class relatorioFuncionario {

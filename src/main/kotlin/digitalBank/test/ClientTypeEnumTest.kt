@@ -1,5 +1,4 @@
 package digitalBank.test
-
 import digitalBank.clientType
 
 fun main() {
