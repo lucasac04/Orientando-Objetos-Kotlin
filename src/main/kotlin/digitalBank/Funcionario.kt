@@ -15,4 +15,6 @@ abstract class Funcionario(
         Auxilio: ${calculoAuxilio()}
         Total: ${salarioTotal()}
     """.trimIndent()
-    }
+
+
+}
