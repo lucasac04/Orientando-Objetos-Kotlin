@@ -1,4 +1,4 @@
-package digital.Bank
+package digitalBank
 
 class Pessoa {
     var nome = "Lucas"

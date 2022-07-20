@@ -1,4 +1,4 @@
-package digital.Bank
+package digitalBank
 
 import java.math.BigDecimal
 
