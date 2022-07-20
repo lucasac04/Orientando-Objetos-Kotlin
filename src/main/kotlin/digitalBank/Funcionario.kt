@@ -13,6 +13,6 @@ abstract class Funcionario(
         Cpf: ${cpf}
         Salario: ${salario}
         Auxilio: ${calculoAuxilio()}
-        SalarioBruto: ${salarioTotal()}
+        Total: ${salarioTotal()}
     """.trimIndent()
     }
